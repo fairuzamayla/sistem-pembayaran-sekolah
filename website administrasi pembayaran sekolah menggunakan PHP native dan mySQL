@@ -1,1 +1,24 @@
 
+
+fitur 
+- Login
+- Dashboard
+- Data Siswa
+- Data pembayaran
+- Riwayat Pembayaran
+- Cetak Pembayaran
+- Cetak Laporan
+
+  Teknologi
+  - PHP Native
+  - MySQL
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+ 
+  Cara Menjalankan nya
+  1. Clone atau download respository ini.
+  2. Import file 'admin.sql" ke phpmyadmin.
+  3. Simpan folder Project ke 'htdocs'(XAMPP) atau 'www'(Laragon).
+  4. Jalankan melaui browser "http://localhost/admin_mts_alkautsar/".
