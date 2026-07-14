@@ -1,25 +1,21 @@
-# Sistem Pembayaran Sekolah
+# School Payment Administration System
 
-## Deskripsi
-Website administrasi pembayaran sekolah berbasis PHP Native dan MySQL.
+## Description
+A web-based application developed to manage school payment administration, student payment records, and financial reports.
 
-## Fitur
-- Login Admin
-- Data Siswa
-- Data Pembayaran
-- Riwayat Pembayaran
-- Cetak Laporan
+## Features
+- Admin Login
 - Dashboard
+- Student Management
+- Payment Transactions
+- Payment History
+- Payment Receipt Printing
+- Financial Reports
 
-## Teknologi
+## Technologies
 - PHP Native
 - MySQL
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
-
-## Cara Menjalankan
-1. Import file admin.sql ke phpMyAdmin.
-2. Simpan project di folder htdocs atau www.
-3. Jalankan melalui localhost.
